@@ -1,0 +1,12 @@
+We are going to create a website called productInquirement, it will have two screens.
+One for collecting client request via a form and another for displaying the data collected inside a table
+
+Key steps to follow:
+1.Create 3 files website.html, styles.css, and life.js
+2.In form.html create a form with these fields:
+-fullName
+-email
+-product
+-quantity
+-amount
+Use table logic to make the html design and js logic in its file
